@@ -1,3 +1,3 @@
-module github.com/JulioVecino/validator
+module github.com/go-lib-com/validator
 
 go 1.12
